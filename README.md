@@ -283,16 +283,6 @@ git lfs pull
 
 ---
 
-# 👨‍💻 Author
-
-**Yogendra Jain**
-
-* MERN Stack Developer
-* DSA (600+ problems solved)
-* AI/ML Enthusiast
-
----
-
 # ⭐ Support
 
 If you like this project:
